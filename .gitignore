@@ -1,0 +1,6 @@
+/venv
+./textos
+*.jpg
+*.png
+*.pdf
+*.txt
